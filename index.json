@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "spacy-stanza",
+  "versions": [
+    {
+      "commit": "b57f3482582535f2f07afb0e4ed01df650925d9d",
+      "tag": "v1.0.4",
+      "parsed_at": "2026-10-28T11:41:59.905675+00:00"
+    }
+  ]
+}
