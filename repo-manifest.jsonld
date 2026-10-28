@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/explosion/spacy-stanza/commit/b57f3482582535f2f07afb0e4ed01df650925d9d",
       "git:hexsha": "b57f3482582535f2f07afb0e4ed01df650925d9d",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.0.4"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.0.4",
+      "repolex:parsedAt": "2026-10-28T11:41:59.825061+00:00"
     },
     {
       "@id": "https://repolex.ai/r/explosion/spacy-stanza/commit/8207ff5afb156b9e633fcf09f1e0d98437e5a48b",
