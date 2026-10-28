@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "explosion",
+  "repo": "spacy-stanza",
+  "versions": [
+    {
+      "commit": "b57f3482582535f2f07afb0e4ed01df650925d9d",
+      "parsed_at": "2026-10-28T11:40:04.561478+00:00",
+      "tag": "v1.0.4",
+      "filetree": "filetree/b57f3482582535f2f07afb0e4ed01df650925d9d.nq.gz",
+      "blobs": [
+        "blob/b23c7b128d0a894b61bab2680c5dad16cc15aa89.nq.gz",
+        "blob/335ff57966a2613a3125a07905ebb0ca1e44673f.nq.gz",
+        "blob/6026308a209bdc8e17cb630e742626bdde0065a0.nq.gz",
+        "blob/8b8dd31642e94954cf4412e35cf0de3a430047d7.nq.gz",
+        "blob/84150ed9ebf7fae814310db69a20ea2ed0406388.nq.gz",
+        "blob/37f77c60f9236be556499225f09cb67c00eb4795.nq.gz",
+        "blob/6eebb3e7a4e83184818ee588fb345462cfe39c36.nq.gz",
+        "blob/67441d5fd3eb35feb78b063e6685d6ddfe51ecae.nq.gz",
+        "blob/03abc8b51f267d7d4b06db04f96d67ba2f7c6655.nq.gz",
+        "blob/5cb3fb9371e8866b9fb61be8ab5ad0cfbc307adc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
